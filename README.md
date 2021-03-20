@@ -17,7 +17,7 @@ The demonstration of this application uses Insomnia to carry out the functions r
 
 # Installation 
 
-You can see a video of the application fully functioning [here](https://drive.google.com/file/d/1bHfaYJeSPTsALYC1dcYpXFlCbtdkV96i/view)
+You can see a video of the application fully functioning [here](https://drive.google.com/file/d/1VkPmldL6-RtdhoBCuF2eXDsSRer2q6bB/view)
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
