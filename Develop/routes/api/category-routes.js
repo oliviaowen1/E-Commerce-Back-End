@@ -60,10 +60,10 @@ router.put('/:id', (req, res) => {
         return;
       }
       res.json(categoryData);
-    }) .catch (err => {
-    res.status(500).json(err);
+    }).catch(err => {
+      res.status(500).json(err);
 
-  });
+    });
 
 });
 
