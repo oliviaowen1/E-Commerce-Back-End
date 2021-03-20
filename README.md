@@ -32,6 +32,8 @@ From here you then see GET routes for a single category, a single product, and a
 
 Finally the demonstration shows POST, PUT, and DELETE routes for categories, products, and tags.
 
+
+
 The screenshots below show the following:
 
 
